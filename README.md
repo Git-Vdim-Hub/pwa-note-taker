@@ -28,6 +28,11 @@ npm run build
 ```
 ## Usage
 
+TO run the app locally, please make sure you are in your root directory and run:
+```
+npm run start:dev
+```
+
 Deployed website to [heroku](https://notes-with-pwa.herokuapp.com/)
 This Github [repository](https://github.com/Git-Vdim-Hub/pwa-note-taker)
 
